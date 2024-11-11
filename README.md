@@ -19,6 +19,7 @@ Calculate your Body Mass Index (BMI) by entering your weight and height. This pr
 1. Open the `index.html` file in your browser.
 2. Enter your weight and height.
 3. Click "Calculate" to view your BMI and category.
+![Screenshot 2024-11-11 225102](https://github.com/user-attachments/assets/c9946c1b-d0a3-4a26-b914-039035493918)
 
 ### 2. Digital Clock
 
@@ -33,6 +34,7 @@ A real-time digital clock that updates every second, showcasing the use of JavaS
 
 1. Open the `index.html` file in your browser.
 2. Watch as the current time updates every second.
+![Screenshot 2024-11-11 225123](https://github.com/user-attachments/assets/9466ef19-8fb0-44f5-b33a-e0d7355fc633)
 
 ### 3. Background Color Switcher
 
@@ -47,6 +49,7 @@ Change the background color of a webpage with a click of a color. This project d
 
 1. Open the `index.html` file in your browser.
 2. Click the color to change the background color to a clicked color.
+![Screenshot 2024-11-11 225142](https://github.com/user-attachments/assets/3ab2b6f4-b432-4e09-9af9-03bee06759b4)
 
 ### 4. Keyboard Checker
 
@@ -61,6 +64,7 @@ Detect which key is pressed on your keyboard, useful for learning how to handle 
 
 1. Open the `index.html` file in your browser.
 2. Press any key on your keyboard to see its code and name displayed on the screen.
+![Screenshot 2024-11-11 225157](https://github.com/user-attachments/assets/7bbf5993-41d9-4dcc-8309-1fe7053fdb11)
 
 ### 5. Number Guessing Game
 
@@ -77,6 +81,7 @@ A fun, interactive number guessing game where the player tries to guess a random
 1. Open the `index.html` file in your browser.
 2. Enter a number to guess and receive feedback.
 3. Continue guessing until you find the correct number.
+![Screenshot 2024-11-11 225212](https://github.com/user-attachments/assets/819f0e8b-6537-4750-ba3c-62d463a7f437)
 
 ### 6. Unlimited Color Switcher
 
@@ -91,6 +96,7 @@ Switch between an endless array of colors. This project demonstrates dynamic sty
 
 1. Open the `index.html` file in your browser.
 2. Click the button to change the background color to a new random color each time.
+![Screenshot 2024-11-11 225229](https://github.com/user-attachments/assets/a106240f-3475-49fb-a3bd-e86f7e6cd89b)
 
 ## Technologies Used
 
