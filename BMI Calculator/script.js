@@ -28,8 +28,7 @@ form.addEventListener('submit', function (e) {
         if (bmi > 24.9) {
             var resulttext = "Overweight"
         }
-        results.innerHTML = `<span>${bmi}</span>
-                             <br>
-                             <span>${resulttext}</span>`
+        results.innerHTML = `<span>Your BMI index is : ${bmi} .</span>
+                             <span>You lies under ${resulttext} category.</span>`
     }
 })
